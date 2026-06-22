@@ -1,0 +1,18 @@
+{
+  "name": "one-piece-rpg-bot",
+  "version": "1.0.0",
+  "description": "One Piece RPG WhatsApp Bot - Grand Line Adventure",
+  "main": "luffy.js",
+  "scripts": {
+    "start": "node luffy.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.9"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "author": "Mugiwara",
+  "license": "MIT"
+}
